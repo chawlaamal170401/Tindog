@@ -9,4 +9,3 @@ Features:
 - Simple Text Editor Based Implementation.
 - Using HTML, CSS and Bootstrap.
 - Implementation of Bootstrap Cards, Carasouel, Navbar, Buttons etc.
-- 
